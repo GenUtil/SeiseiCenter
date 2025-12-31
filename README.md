@@ -2,6 +2,9 @@ Official SHA-256 checksums are provided in the release assets.
 
 See `SHA256SUMS.txt` for details.
 
+公式リリースの SHA-256 チェックサムはリリース添付の
+`SHA256SUMS.txt` に記載しています。
+
 ---
 
 # Seisei Center v1.1.03
