@@ -1,3 +1,9 @@
+Official SHA-256 checksums are provided in the release assets.
+
+See `SHA256SUMS.txt` for details.
+
+---
+
 # Seisei Center v1.1.03
 
 A Windows .NET (C# / WinForms) tool for generating randomized address/value pairs  
