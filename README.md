@@ -6,6 +6,10 @@ See `SHA256SUMS.txt` for details.
 
 `SHA256SUMS.txt` に記載しています。
 
+Analysis using dnSpy/ILSpy is allowed!
+
+dnSpy/ILSpyを用いた解析は許可されています！
+
 ---
 
 # Seisei Center v1.1.03
