@@ -12,7 +12,7 @@ dnSpy/ILSpyを用いた解析は許可されています！
 
 ---
 
-# Seisei Center v1.1.03
+# Seisei Center
 
 A Windows .NET (C# / WinForms) tool for generating randomized address/value pairs  
 with flexible, template-based output.
@@ -110,7 +110,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-# 生成センター v1.1.03
+# 生成センター
 
 アドレス・値・比較値をもとに、
 ランダム生成およびテンプレート出力を行う
