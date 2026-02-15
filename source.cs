@@ -46,7 +46,7 @@ class RandomCodeGenerator
         Application.SetCompatibleTextRenderingDefault(false);
 
         mainForm = new Form();
-        mainForm.Text = "コード生成センター v1.2.1";
+        mainForm.Text = "コード生成センター v1.2.0";
         mainForm.Width = 700; mainForm.Height = 750;
         mainForm.MinimumSize = new System.Drawing.Size(650, 650);
         mainForm.FormClosing += (s, e) => SaveSettings();
